@@ -3,9 +3,9 @@
 Application to better help children and individuals of other learning demographics learn the Holy Quran verses. 
 
 <p float="left">
-  <img src="Images/3.png" width="325" />
-  <img src="Images/1.png" width="325" /> 
-  <img src="Images/2.png" width="325" />
+  <img src="Images/3.png" width="300" />
+  <img src="Images/1.png" width="300" /> 
+  <img src="Images/2.png" width="300" />
 </p>
 
 ## Description
